@@ -1268,7 +1268,7 @@
 					<key>begin</key>
 					<string>=\s*</string>
 					<key>end</key>
-					<string>$|(?=,|(?:\s+[^!%&amp;*-+~|&lt;&gt;:?/])|\))</string>
+					<string>$|(?=,|(?:\s+[^!%&amp;*-+~|&lt;&gt;?/])|\))</string>
 					<key>name</key>
 					<string>attribute_value</string>
 					<key>patterns</key>
